@@ -1,0 +1,11 @@
+F:\Trial\bin\Debug\Trial.exe.config
+F:\Trial\bin\Debug\Trial.exe
+F:\Trial\bin\Debug\Trial.pdb
+F:\Trial\obj\Debug\Trial.csprojAssemblyReference.cache
+F:\Trial\obj\Debug\Trial.Form1.resources
+F:\Trial\obj\Debug\Trial.Properties.Resources.resources
+F:\Trial\obj\Debug\Trial.csproj.GenerateResource.cache
+F:\Trial\obj\Debug\Trial.csproj.CoreCompileInputs.cache
+F:\Trial\obj\Debug\Trial.exe
+F:\Trial\obj\Debug\Trial.pdb
+F:\Trial\obj\Debug\Trial.Form2.resources
